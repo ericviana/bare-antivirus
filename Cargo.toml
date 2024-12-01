@@ -1,0 +1,10 @@
+[package]
+name = "antivirus_sistemas_computacionais_e_seguranca"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+walkdir = "2.4.0"
+chrono = "0.4"
